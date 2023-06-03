@@ -1,0 +1,4 @@
+D:\Projects\begemot\begemot\x64\Debug\begemot.vcxproj.AssemblyReference.cache
+D:\Projects\begemot\begemot\x64\Debug\begemot.vcxproj.SuggestedBindingRedirects.cache
+D:\Projects\begemot\begemot\x64\Debug\begemot.MyForm.resources
+D:\Projects\begemot\begemot\x64\Debug\begemot.vcxproj.GenerateResource.cache
